@@ -1,5 +1,3 @@
-<img width="951" height="791" alt="Gemini_Generated_Image_nioo8knioo8knioo" src="https://github.com/user-attachments/assets/9c5c4dd4-1c56-44ad-9065-1870fc50a019" />
-
 
 <h1 align="center">Hi 👋, I'm Nishanthini</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
