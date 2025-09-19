@@ -47,9 +47,9 @@
 ### 🛠️ Tools & IDEs  
 <p>
   <img src="https://tse4.mm.bing.net/th/id/OIP.g1P6VqCDOyjmTdslbt2S1wAAAA?pid=Api&P=0&h=180" width="50" height="50" />
-  <img src="https://tse4.mm.bing.net/th/id/OIP.zfI-N7W4LPBnzFR7v6BM9AHaDt?pid=Api&P=0&h=180" width="50" height="50" />
-  <img src="https://tse4.mm.bing.net/th/id/OIP.iUxTgBmiTTkuzxDPzscqgAHaFd?pid=Api&P=0&h=180" width="50" height="50" />
-  <img src="https://tse4.mm.bing.net/th/id/OIP.IaLbIcceTOvFBHtrtaKdpQHaFj?pid=Api&P=0&h=180" width="50" height="50" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%2Fid%2FOIP.fqZ9-PPqcG_cm0k3JfoINQHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=e91104bdccb557d5534ccfc8df6656437f5edc830a6c81d3904a0078e0dc29e7&ipo=images" width="80" height="80" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.iUxTgBmiTTkuzxDPzscqgAHaFd?pid=Api&P=0&h=180" width="60" height="60" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.IaLbIcceTOvFBHtrtaKdpQHaFj?pid=Api&P=0&h=180" width="60" height="60" />
 </p>
 
 ### 📊 Microsoft Office   
